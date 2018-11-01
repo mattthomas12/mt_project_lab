@@ -1,0 +1,3 @@
+Hello, I am in a training class.
+We are learning about GIT.
+Probably going to hear about GitHub at some point too.
